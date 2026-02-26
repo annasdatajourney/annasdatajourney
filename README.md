@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQF1PU02JGoirA/profile-displayphoto-crop_800_800/B4EZufPFqxGkAI-/0/1767903093189?e=1772668800&v=beta&t=p4xgjaRV-ZxiCpbZgexqTq34GAflU95MuBxj9cmJhVI" alt="Bence Profile Picture" width="150" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQE74cNEoo6bHg/profile-displayphoto-crop_800_800/B4EZyVgqKQIEAI-/0/1772034894154?e=1773878400&v=beta&t=8u5HxZ9KAiUkM_o_mFw9MNvik8depJuCmqdV34Psj-8" alt="Bence Profile Picture" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Anna </h1>
