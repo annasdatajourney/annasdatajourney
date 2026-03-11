@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Anna </h1>
-<h2 align="center">Junior Business / Data Analyst | Power BI, SQL, Excel | Business-focused analytics & decision support</h2>
+<h2 align="center">Junior Data Analyst | Reporting & MI Analyst |  | Power BI, SQL, Excel | Business-focused Analytics & Decision Support </h2>
 
 ---
 
@@ -20,7 +20,7 @@
 <p align="center">
 I’m a Junior Business / Data Analyst with a background in education, psychology, and financial services.
 
-Over the years, I’ve worked closely with clients and stakeholders, often in fully remote settings, which has helped me understand how people use information and make decisions. I use this experience to turn data into clear, practical insights that sup real business needs.
+Over the years, I’ve worked closely with clients and stakeholders, often in fully remote settings, which has helped me understand how people use information and make decisions. I use this experience to turn data into clear, practical insights that support real business needs.
 
 I work with Power BI, SQL, and Excel on reporting, KPI analysis, and decision support projects focused on operational and performance improvement.
 
