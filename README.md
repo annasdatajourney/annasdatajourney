@@ -1,10 +1,3 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQE74cNEoo6bHg/profile-displayphoto-crop_800_800/B4EZyVgqKQIEAI-/0/1772034894154?e=1775692800&v=beta&t=BjCE_pC-GclisJHzGIjOYgXsk_pqC78DkebE0scskkY" alt="Bence Profile Picture" width="150" />
-</p>
-
-
-
 
 
 <h1 align="center">Hi, I'm Anna </h1>
