@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="annasdatajourney.png" width="600"/>
+</p>
 
 <h1 align="center">Hi, I'm Anna </h1>
 <h2 align="center">Junior Data Analyst | Reporting & MI Analyst |  | Power BI, SQL, Excel | Business-focused Analytics & Decision Support </h2>
