@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi, I'm Anna </h1>
-<h2 align="center">Junior Data Analyst | Reporting & MI Analyst |  | Power BI, SQL, Excel | Business-focused Analytics & Decision Support </h2>
+<h2 align="center">Junior Data Analyst | Reporting & MI Analyst | Power BI, SQL, Excel | Business-focused Analytics & Decision Support </h2>
 
 ---
 
 <div align="center">
 
-<a href="https://annasdatayourney.wixsite.com/annasdatajourney"><h2>View My Portfolio here</h2></a>
+###  [View My Portfolio](https://annasdatayourney.wixsite.com/annasdatajourney)
 
 </div>
 
@@ -17,15 +17,19 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
+
 I’m a Junior Business / Data Analyst with a background in education, psychology, and financial services.
 
-Over the years, I’ve worked closely with clients and stakeholders, often in fully remote settings, which has helped me understand how people use information and make decisions. I use this experience to turn data into clear, practical insights that support real business needs.
+Over the years, I’ve worked closely with clients and stakeholders, often in fully remote settings. This has helped me understand not just data, but how people use information to make decisions.
 
-I work with Power BI, SQL, and Excel on reporting, KPI analysis, and decision support projects focused on operational and performance improvement.
+I focus on turning data into clear, actionable insights that support real business needs - particularly in areas such as performance tracking, revenue analysis, and operational efficiency.
 
-I’m comfortable working independently in remote environments and collaborating with distributed teams. I’m looking for a junior Business Analyst or Data Analyst role where I can contribute from day one while continuing to grow professionally. I also write about my learning process and analytics projects on my blog.
+I work with Power BI, SQL, and Excel to build reporting solutions, analyse KPIs, and identify patterns such as revenue loss, cancellations, and demand fluctuations.
+
+I’m comfortable working independently in remote environments and collaborating with distributed teams. I’m looking for a junior Business Analyst or Data Analyst role where I can contribute from day one while continuing to grow professionally.
 
 </p>
+
 
 ---
 
@@ -97,9 +101,9 @@ I’m comfortable working independently in remote environments and collaborating
 ## Currently Working On
 
 <ul>
-  <li>Refining my GitHub portfolio</li>
-  <li>Improving Power BI and SQL reporting projects</li>
-  <li>Preparing for junior data / business analyst roles</li>
+  <li>Developing business-focused data analysis projects based on real-world scenarios</li>
+  <li>Building Power BI dashboards focused on performance tracking and operational insights</li>
+  <li>Analysing revenue, cancellations, and demand patterns in service-based businesses</li>
 </ul>
 
 <br />
